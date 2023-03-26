@@ -1,5 +1,4 @@
-# Building Data Apps with R and Shiny: Essential Training
-With Charlie Joey Hadley
+# Essential Data Apps with R and Shiny
 
 ## Contents
 
